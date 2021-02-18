@@ -1,4 +1,4 @@
-# metaprim
+# metaprime-taltseva
 
 ## Project setup
 ```
